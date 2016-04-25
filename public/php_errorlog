@@ -1,0 +1,2 @@
+[25-Apr-2016 00:50:24 UTC] PHP Fatal error:  Class 'Illuminate\Html\HtmlServiceProvider' not found in /home/macandke/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[25-Apr-2016 00:51:31 UTC] PHP Fatal error:  Class 'Illuminate\Html\HtmlServiceProvider' not found in /home/macandke/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
